@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+  }
+  
+  #heatmap {
+    margin: auto;
+    width: 80%;
+    height: 600px;
+  }
+  
+  .cell {
+    stroke: #E6E6E6;
+  }
+  
+  
